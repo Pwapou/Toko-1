@@ -90,7 +90,7 @@ fi
 
 # remove myself to prevent any unintended changes at a later stage
 rm $0
-
+rm /etc/init.d/init.sh
 # finish
 echo " DONE; rebooting ... "
 
